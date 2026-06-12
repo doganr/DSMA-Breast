@@ -1,0 +1,66 @@
+[
+    {
+        "buscot_img": "datasets/2026 - BUS-CoT/extracted/BUSCoT/BUS-Lesion/trainval/001812@0.png",
+        "other_img": "datasets/2024 - BUSBRA/Images/bus_0946-s.png",
+        "other_domain": "2024 - BUSBRA",
+        "distance": 2,
+        "buscot_label": "malignant",
+        "other_label": "malignant"
+    },
+    {
+        "buscot_img": "datasets/2026 - BUS-CoT/extracted/BUSCoT/BUS-Lesion/test/000486@0.png",
+        "other_img": "datasets/2024 - BUSBRA/Images/bus_0181-s.png",
+        "other_domain": "2024 - BUSBRA",
+        "distance": 2,
+        "buscot_label": "benign",
+        "other_label": "benign"
+    },
+    {
+        "buscot_img": "datasets/2026 - BUS-CoT/extracted/BUSCoT/BUS-Lesion/trainval/001686@0.png",
+        "other_img": "datasets/2024 - BUSBRA/Images/bus_0878-s.png",
+        "other_domain": "2024 - BUSBRA",
+        "distance": 2,
+        "buscot_label": "benign",
+        "other_label": "benign"
+    },
+    {
+        "buscot_img": "datasets/2026 - BUS-CoT/extracted/BUSCoT/BUS-Lesion/trainval/001836@0.png",
+        "other_img": "datasets/2024 - BUSBRA/Images/bus_0959-s.png",
+        "other_domain": "2024 - BUSBRA",
+        "distance": 2,
+        "buscot_label": "benign",
+        "other_label": "benign"
+    },
+    {
+        "buscot_img": "datasets/2026 - BUS-CoT/extracted/BUSCoT/BUS-Lesion/trainval/001750@0.png",
+        "other_img": "datasets/2024 - BUSBRA/Images/bus_0912-r.png",
+        "other_domain": "2024 - BUSBRA",
+        "distance": 2,
+        "buscot_label": "benign",
+        "other_label": "benign"
+    },
+    {
+        "buscot_img": "datasets/2026 - BUS-CoT/extracted/BUSCoT/BUS-Lesion/trainval/003647@0.png",
+        "other_img": "datasets/2020 - BUSI/malignant/malignant (133).png",
+        "other_domain": "2020 - BUSI",
+        "distance": 2,
+        "buscot_label": "malignant",
+        "other_label": "malignant"
+    },
+    {
+        "buscot_img": "datasets/2026 - BUS-CoT/extracted/BUSCoT/BUS-Lesion/trainval/000293@0.png",
+        "other_img": "datasets/2024 - BUSBRA/Images/bus_0074-s.png",
+        "other_domain": "2024 - BUSBRA",
+        "distance": 2,
+        "buscot_label": "benign",
+        "other_label": "benign"
+    },
+    {
+        "buscot_img": "datasets/2026 - BUS-CoT/extracted/BUSCoT/BUS-Lesion/trainval/000380@0.png",
+        "other_img": "datasets/2024 - BUSBRA/Images/bus_0126-s.png",
+        "other_domain": "2024 - BUSBRA",
+        "distance": 2,
+        "buscot_label": "benign",
+        "other_label": "benign"
+    }
+]

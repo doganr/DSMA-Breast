@@ -1,0 +1,28 @@
+# --- Datasets (not redistributed; obtain from original distributors — see README) ---
+datasets/
+
+# --- Training outputs / checkpoints ---
+dsma/saved/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.ipynb_checkpoints/
+
+# --- Environments ---
+.venv/
+venv/
+env/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/

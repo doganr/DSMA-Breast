@@ -1,0 +1,37 @@
+name: dsma-breast
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip>=24.0
+  - pytorch=2.9.*
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.4
+  - numpy>=1.26
+  - scikit-learn>=1.5
+  - pandas>=2.2
+  - matplotlib>=3.8
+  - tqdm>=4.66
+  - pillow>=10
+  - requests>=2.31
+  - typing_extensions>=4.8
+  - pip:
+      - transformers>=4.44
+      - tokenizers>=0.19
+      - datasets>=3.0
+      - accelerate>=0.33
+      - huggingface-hub>=0.26
+      - safetensors>=0.4
+      - filelock>=3.16
+      - sentencepiece>=0.1.99
+      - einops>=0.8
+      - evaluate>=0.4
+      - imagehash>=4.3
+      - grad-cam>=1.5
+      - tensorboard>=2.13
+      - rich>=13.5
+      - sympy>=1.13
